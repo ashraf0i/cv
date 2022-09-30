@@ -1,8 +1,8 @@
 body {
     background-color:#eaf6f6;
     font-style: normal;
-    font-family: 'Trebuchet MS',sans-serif;
-   
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
 }
 
 hr {
@@ -20,3 +20,10 @@ h3{color: #66bfbf;}
 html {
     scroll-behavior: smooth;
   }
+  button:hover
+  {background-color:#eaf6f6;
+    
+    color:#66bfbf;
+   
+}
+  
